@@ -2,6 +2,6 @@
 
 view report: https://goo.gl/ewzCZR
 
-![ScreenShot](https://{https://i.imgur.com/0LyM0pj.jpg})
+![ScreenShot]({https://i.imgur.com/0LyM0pj.jpg})
 
 https://i.imgur.com/0LyM0pj.jpg
