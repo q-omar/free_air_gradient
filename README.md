@@ -2,4 +2,4 @@
 
 view report: https://goo.gl/ewzCZR
 
-![ScreenShot](https://imgur.com/0LyM0pj)
+![ScreenShot]({https://imgur.com/0LyM0pj})
